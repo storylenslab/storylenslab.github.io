@@ -14,3 +14,8 @@ Transform fairy tales and children's stories into illustrated scene-by-scene sto
 Perfect for young readers, parents, and educators.
 
 Contact: storylenslab@gmail.com
+
+---
+[Privacy Policy](privacy)
+|
+[Terms of Service](terms)
