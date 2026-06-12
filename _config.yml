@@ -1,0 +1,19 @@
+title: StoryLens
+description: Every fairy tale becomes a picture story.
+theme: minima
+
+url: "https://stroylenslab.github.io"
+baseurl: "/storylens"
+
+author:
+  name: Andrei Malkov
+
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - index.md
+
+exclude:
+  - README.md
+  - LICENSE
